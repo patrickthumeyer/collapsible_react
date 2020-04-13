@@ -13,15 +13,15 @@ Use the faq (frequently asked questions) from the `data.json` file and display e
 Items in the `admin` category should appear in the orange theme,
 `marketing` in green, and every other category in the default blue theme.
 
-With all FAQ-s closed, they could look like this for example: 
+With all FAQ-s closed, they could look like this for example:
 
 ![collapsible closed example](collapsible-closed-example.png)
 
-With some FAQ-s open, they could look like this: 
+With some FAQ-s open, they could look like this:
 
 ![collapsible open example](collapsible-open-example.png)
 
-* You can also animate the arrow (when FAQ is closed, the arrow looks down; when open - it turns up)
-* Change document title to `Our FAQ`
+- You can also animate the arrow (when FAQ is closed, the arrow looks down; when open - it turns up)
+- Change document title to `Our FAQ`
 
 > Use [CRA (create react app)](https://create-react-app.dev/) to bootstrap your project
